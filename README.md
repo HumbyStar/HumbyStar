@@ -1,12 +1,11 @@
 ## RodriguesDev™ --> iOS Dev Jr
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Welcome;Swift+Developer+by+Apple;BackFront+Acaddemy+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Welcome;Swift+Developer+by+Apple;BackFront+Academmy+Student)](https://git.io/typing-svg)
 
 - 💻 Foccused in Swift and iOS Dev;
 - 📚 Learning:
         Swift : UIKit - Storyboard/ViewCode 
-        Golang
 
 <div align="center">   
   <a href="https://www.instagram.com/humberttgomez/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
