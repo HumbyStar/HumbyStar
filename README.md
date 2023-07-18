@@ -1,4 +1,4 @@
-## RodriguesDev™ --> iOS Dev Jr
+## RodriguesDev™ --> iOS Dev
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Welcome;Swift+Developer+by+Apple;BackFront+Academmy+Student)](https://git.io/typing-svg)
